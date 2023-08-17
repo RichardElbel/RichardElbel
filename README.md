@@ -13,6 +13,9 @@ I am a results-driven software developer with a strong background in API develop
      <a href="https://richardelbel.github.io/OnlineQuiz/">
          <img alt="Online Quiz" title="Online Quiz" src="https://custom-icon-badges.demolab.com/badge/Online-Quiz-yellow.svg?logo=website&logoColor=white"/></a> 
       </a> 
+       <a href="https://richardelbel.github.io/OnlineGame/">
+         <img alt="Online Game" title="Online Game" src="https://custom-icon-badges.demolab.com/badge/Online-Game-Green.svg?logo=website&logoColor=white"/></a> 
+      </a> 
      
    </p>
 
