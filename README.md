@@ -12,8 +12,7 @@ I am a results-driven software developer with a strong background in API develop
      <h5>Web Demonstration</h5>
      <a href="https://richardelbel.github.io/OnlineQuiz/">
          <img alt="Online Quiz" title="Online Quiz" src="https://custom-icon-badges.demolab.com/badge/Online-Quiz-yellow.svg?logo=website&logoColor=white"/></a> 
-      <a href="https://github.com/RichardElbel/FullStackDemofrontEnd">
-         <img alt="React frontend Demo" title="React Frontend Demo" src="https://custom-icon-badges.demolab.com/badge/Online-Quiz-yellow.svg?logo=website&logoColor=white"/></a> 
+      </a> 
      
    </p>
 
