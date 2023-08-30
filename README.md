@@ -16,6 +16,9 @@ I am a results-driven software developer with a strong background in API develop
        <a href="https://richardelbel.github.io/OnlineGame/">
          <img alt="Online Game" title="Online Game" src="https://custom-icon-badges.demolab.com/badge/Online-Game-Green.svg?logo=website&logoColor=white"/></a> 
       </a> 
+      <a href="https://github.com/RichardElbel/BrainJS_Demo">
+         <img alt="BrainJS_Demo" title="BrainJS_Demo" src="https://custom-icon-badges.demolab.com/badge/ColorMatcherAI-Code-purple.svg?logo=book&logoColor=white"/></a> 
+      </a> 
      
    </p>
 
